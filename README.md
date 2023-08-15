@@ -10,5 +10,5 @@ beautiful windows terminal for happy coding
 
 # Example  
 <p float="left">
-  <img src="winsows_terminal_example.jpg" width="200" />
+  <img src="winsows_terminal_example.jpg" width="800" />
 </p>
