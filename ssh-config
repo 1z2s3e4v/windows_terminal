@@ -1,0 +1,61 @@
+Host eda35
+  HostName eda.ee.ntu.edu.tw
+  User frankchiang
+  Port 50035
+  IdentityFile C:\Users\Cheng-Yu\.ssh\id_ecdsa
+  ForwardAgent yes
+  ForwardX11Trusted yes
+Host eda36
+  HostName eda.ee.ntu.edu.tw
+  User frankchiang
+  Port 50036
+  IdentityFile C:\Users\Cheng-Yu\.ssh\id_ecdsa
+  ForwardAgent yes
+  ForwardX11Trusted yes
+Host eda37
+  HostName eda.ee.ntu.edu.tw
+  User frankchiang
+  Port 50037
+  IdentityFile C:\Users\Cheng-Yu\.ssh\id_ecdsa
+  ForwardX11 yes
+  ForwardAgent yes
+  ForwardX11Trusted yes 
+  ServerAliveInterval 60
+  ServerAliveCountMax 3
+Host eda38
+  HostName eda.ee.ntu.edu.tw
+  User frankchiang
+  Port 50038
+  IdentityFile C:\Users\Cheng-Yu\.ssh\id_ecdsa
+  ForwardX11 yes
+  ForwardAgent yes
+  ForwardX11Trusted yes
+  ServerAliveInterval 60
+  ServerAliveCountMax 3
+Host eda39
+  HostName eda.ee.ntu.edu.tw
+  User frankchiang
+  Port 50039
+  IdentityFile C:\Users\Cheng-Yu\.ssh\id_ecdsa
+  ServerAliveInterval 60
+  ServerAliveCountMax 3
+Host vda04
+  HostName vda04.ee.nctu.edu.tw
+  User chfrank9807
+  Port 22
+  ForwardAgent yes
+  ForwardX11Trusted yes
+Host vda07
+  HostName vda07.ee.nctu.edu.tw
+  User chfrank9807
+  Port 22
+  ForwardAgent yes
+  ForwardX11Trusted yes
+
+Host cad29
+  HostName 140.112.20.72
+  User d10013
+  Port 22
+  ForwardX11 yes
+  ForwardAgent yes
+  ForwardX11Trusted yes
